@@ -1,2 +1,3 @@
+rembg
 matplotlib==3.10.3
 streamlit==1.45.1
